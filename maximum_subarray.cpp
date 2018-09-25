@@ -1,5 +1,4 @@
 /** Author Divij Bhatia
-  * Last modified 22/09/2018 09:31:13pm
   * Know more about author at http://www.divijbhatia.in
   */
 
