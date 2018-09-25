@@ -1,4 +1,4 @@
-/** Author Divij Bhatia
+/** Author - Divij Bhatia
   * Know more about the author at http://www.divijbhatia.in
   */
 
