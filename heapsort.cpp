@@ -1,5 +1,5 @@
 /** Author - Divij Bhatia
-  * Know more about the author at http://www.divijbhatia.in
+  * Know more about me at http://www.divijbhatia.in
   */
 
 #include <iostream>
