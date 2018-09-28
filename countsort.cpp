@@ -36,21 +36,7 @@ int find_range(int* array, int size)
 {
     int max=find_max(array,size);
     int min=find_min(array,size);
-    int range=0;
-
-    if(max>=0 && min>=0)
-    {
-        range=max-min+1;
-    }
-    else if(max>=0 && min<0)
-    {
-        range=max-min+1;
-    } 
-    else if(max<0 && min<0)
-    {
-        range=max-min+1;
-    } 
-
+    int range=max-min+1;
     return range;
 }
 
@@ -58,8 +44,8 @@ int find_range(int* array, int size)
 int* countsort(int* array, int size)
 {
     int range=find_range(array, size);
-    int max=find_max(array,size);
-    int shift=range-max-1;
+    int min=find_min(array,size);
+    int shift=-min;
     int* counter=new int(range-1);
     int* sorted_array=new int(size);
     cout<<range;
