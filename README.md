@@ -7,6 +7,7 @@ Following algorithms are present in the repository:
  4. [Count Sort](https://github.com/bhatiadivij/Algorithms/blob/master/countsort.cpp)
  5. [Stack](https://github.com/bhatiadivij/Algorithms/blob/master/stack.cpp)
  6. [Queue](https://github.com/bhatiadivij/Algorithms/blob/master/queue.cpp)
+ 6. [Linked List](https://github.com/bhatiadivij/Algorithms/blob/master/linkedlist.cpp)
  
 # Get in touch:
 Email: [divijbhatia2@gmail.com](mailto:divijbhatia2@gmail.com), [mail@divijbhatia.in](mailto:mail@divijbhatia.in)     
