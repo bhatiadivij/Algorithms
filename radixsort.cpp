@@ -7,7 +7,7 @@
 #include <algorithm>
 using namespace std;
 
-/*This algorithm works only with positive numbers*/
+
 int modulo(int a, int b)
 {
     return (a%b + b)%b;
@@ -108,14 +108,8 @@ void radix_sort(int* array, int size)
   int max_digits=find_number_of_digits(max);
   for(int i=1; i<=max_digits; i++)
   {
-      int* digit_array=generate_digit_array(array,size,i);   
+      int* digit_array=generate_digit_array(array,size,i);
       array=countsort(array, digit_array, size, i);
   }
     display_array(array,size);
-}
-
-int main()
-{
-    int a[]={215,148,401,320,190};
-    radix_sort(a,5);
 }
