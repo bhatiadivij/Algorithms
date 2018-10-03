@@ -10,7 +10,10 @@ Following algorithms are present in the repository:
     1. [Stack](https://github.com/bhatiadivij/Algorithms/blob/master/stack.cpp)
     2. [Queue](https://github.com/bhatiadivij/Algorithms/blob/master/queue.cpp)
     3. [Linked List](https://github.com/bhatiadivij/Algorithms/blob/master/linkedlist.cpp)
-3. Miscellaneous
+3. Dynamic Programming
+    1. [Find nth Fibonacci Number](https://github.com/bhatiadivij/Algorithms/blob/master/fibonacci_numbers.cpp)
+    2. [Find nth Catalan Number](https://github.com/bhatiadivij/Algorithms/blob/master/catalan_numbers.cpp)
+4. Miscellaneous
     1. [Maximum Subarray](https://github.com/bhatiadivij/Algorithms/blob/master/maximum_subarray.cpp)
 
 # Get in touch:
